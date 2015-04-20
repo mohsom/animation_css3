@@ -20,18 +20,18 @@ a.hover {
 }
 
 @-webkit-keyframes my-animation {
-    from {
+    0%{
         margin-left: 0;
     }
-    to{
+    100%{
         margin-left: 400px;
     }
 }
 @keyframes my-animation {
-    from {
+    0%{
         margin-left: 0;
     }
-    to{
+    100%{
         margin-left: 400px;
     }
 }
