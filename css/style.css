@@ -14,9 +14,20 @@ a.hover {
 }
 
 .hover:hover + .anim-obj {
+    -webkit-animation: my-animation 5s 1;
     animation: my-animation 5s 1;
 }
 
+@-webkit-keyframes my-animation {
+    from {
+        margin-left: 0;
+        width: 100px;
+    }
+    to{
+        margin-left: 400px;
+        width: 200px;
+    }
+}
 @keyframes my-animation {
     from {
         margin-left: 0;
