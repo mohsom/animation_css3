@@ -23,6 +23,15 @@ a.hover {
     0%{
         margin-left: 0;
     }
+    25%{
+
+    }
+    50%{
+
+    }
+    75%{
+
+    }
     100%{
         margin-left: 400px;
     }
@@ -30,6 +39,15 @@ a.hover {
 @keyframes my-animation {
     0%{
         margin-left: 0;
+    }
+    25%{
+
+    }
+    50%{
+
+    }
+    75%{
+
     }
     100%{
         margin-left: 400px;
