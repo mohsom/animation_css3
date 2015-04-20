@@ -22,20 +22,16 @@ a.hover {
 @-webkit-keyframes my-animation {
     from {
         margin-left: 0;
-        width: 100px;
     }
     to{
         margin-left: 400px;
-        width: 200px;
     }
 }
 @keyframes my-animation {
     from {
         margin-left: 0;
-        width: 100px;
     }
     to{
         margin-left: 400px;
-        width: 200px;
     }
 }
