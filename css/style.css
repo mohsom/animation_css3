@@ -15,41 +15,62 @@ a.hover {
 }
 
 .hover:hover + .anim-obj {
-    -webkit-animation: my-animation 0.5s 1;
-    animation: my-animation 0.5s 1;
+    -webkit-animation: my-animation 3s 1;
+    animation: my-animation 3s 1;
 }
 
 @-webkit-keyframes my-animation {
-    0%{
+    0% {
         margin-left: 0;
+        margin-top: 0;
+        transform:rotateZ(0deg);
     }
-    25%{
-
+    25% {
+        margin-left: 20px;
+        margin-top: 20px;
+        transform:rotateZ(20deg);
     }
-    50%{
-
+    50% {
+        margin-left: 50px;
+        margin-top: 50px;
+        transform:rotateZ(30deg);
     }
-    75%{
-
+    75% {
+        margin-left: 100px;
+        margin-top: 100px;
+        transform:rotateZ(40deg);
     }
-    100%{
-        margin-left: 400px;
+    100% {
+        margin-left: 150px;
+        margin-top: 150px;
+        transform:rotateZ(60deg);
     }
 }
+
 @keyframes my-animation {
-    0%{
+    0% {
         margin-left: 0;
+        margin-top: 0;
+        transform:rotateX(0deg);
     }
-    25%{
-
+    25% {
+        margin-left: 20px;
+        margin-top: 20px;
+        transform:rotateX(20deg);
     }
-    50%{
-
+    50% {
+        margin-left: 50px;
+        margin-top: 50px;
+        transform:rotateX(30deg);
     }
-    75%{
-
+    75% {
+        margin-left: 100px;
+        margin-top: 100px;
+        transform:rotateX(40deg);
     }
-    100%{
-        margin-left: 400px;
+    100% {
+        margin-left: 150px;
+        margin-top: 150px;
+        transform:rotateX(60deg);
     }
 }
