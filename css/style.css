@@ -1,16 +1,29 @@
-.anim-obj{
+.anim-obj {
     display: block;
     width: 100px;
     height: 100px;
     background-color: #000000;
 }
-a.hover{
+
+a.hover {
     display: block;
     font-size: 30px;
     position: absolute;
     bottom: 0;
     left: 0;
 }
-.hover:hover+.anim-obj{
-    background-color: aliceblue;
+
+.hover:hover + .anim-obj {
+    animation: my-animation 5s 1;
+}
+
+@keyframes my-animation {
+    from {
+        margin-left: 0;
+        width: 100px;
+    }
+    to{
+        margin-left: 400px;
+        width: 200px;
+    }
 }
