@@ -18,7 +18,7 @@ a.hover {
     left: 50px;
     color: #ffffff;
 }
- 
+
 .hover:hover + .anim-obj {
     -webkit-animation: my-animation 3s 1;
     animation: my-animation 3s 1;
@@ -31,10 +31,10 @@ a.hover {
         transform: rotateZ(0deg);
     }
     1% {
-        margin-left: 5px;
-        margin-top: 5px;
-        transform: rotateZ(5deg);
-    }
+         margin-left: 5px;
+         margin-top: 5px;
+         transform: rotateZ(5deg);
+     }
     2% {
         margin-left: 10px;
         margin-top: 10px;
@@ -65,15 +65,70 @@ a.hover {
         margin-top: 35px;
         transform: rotateZ(35deg);
     }
-    9% {
+    8% {
         margin-left: 40px;
         margin-top: 40px;
         transform: rotateZ(40deg);
     }
-    10% {
+    9% {
         margin-left: 45px;
         margin-top: 45px;
         transform: rotateZ(45deg);
+    }
+    10% {
+        margin-left: 50px;
+        margin-top: 50px;
+        transform: rotateZ(50deg);
+    }
+    11% {
+        margin-left: 55px;
+        margin-top: 55px;
+        transform: rotateZ(55deg);
+    }
+    12% {
+        margin-left: 60px;
+        margin-top: 60px;
+        transform: rotateZ(60deg);
+    }
+    13% {
+        margin-left: 65px;
+        margin-top: 65px;
+        transform: rotateZ(65deg);
+    }
+    14% {
+        margin-left: 70px;
+        margin-top: 70px;
+        transform: rotateZ(70deg);
+    }
+    15% {
+        margin-left: 75px;
+        margin-top: 75px;
+        transform: rotateZ(75deg);
+    }
+    16% {
+        margin-left: 80px;
+        margin-top: 80px;
+        transform: rotateZ(80deg);
+    }
+    17% {
+        margin-left: 85px;
+        margin-top: 85px;
+        transform: rotateZ(85deg);
+    }
+    18% {
+        margin-left: 90px;
+        margin-top: 90px;
+        transform: rotateZ(90deg);
+    }
+    19% {
+        margin-left: 95px;
+        margin-top: 95px;
+        transform: rotateZ(95deg);
+    }
+    20% {
+        margin-left: 100px;
+        margin-top: 100px;
+        transform: rotateZ(100deg);
     }
 }
 
@@ -118,14 +173,69 @@ a.hover {
         margin-top: 35px;
         transform: rotateZ(35deg);
     }
-    9% {
+    8% {
         margin-left: 40px;
         margin-top: 40px;
         transform: rotateZ(40deg);
     }
-    10% {
+    9% {
         margin-left: 45px;
         margin-top: 45px;
         transform: rotateZ(45deg);
+    }
+    10% {
+        margin-left: 50px;
+        margin-top: 50px;
+        transform: rotateZ(50deg);
+    }
+    11% {
+        margin-left: 55px;
+        margin-top: 55px;
+        transform: rotateZ(55deg);
+    }
+    12% {
+        margin-left: 60px;
+        margin-top: 60px;
+        transform: rotateZ(60deg);
+    }
+    13% {
+        margin-left: 65px;
+        margin-top: 65px;
+        transform: rotateZ(65deg);
+    }
+    14% {
+        margin-left: 70px;
+        margin-top: 70px;
+        transform: rotateZ(70deg);
+    }
+    15% {
+        margin-left: 75px;
+        margin-top: 75px;
+        transform: rotateZ(75deg);
+    }
+    16% {
+        margin-left: 80px;
+        margin-top: 80px;
+        transform: rotateZ(80deg);
+    }
+    17% {
+        margin-left: 85px;
+        margin-top: 85px;
+        transform: rotateZ(85deg);
+    }
+    18% {
+        margin-left: 90px;
+        margin-top: 90px;
+        transform: rotateZ(90deg);
+    }
+    19% {
+        margin-left: 95px;
+        margin-top: 95px;
+        transform: rotateZ(95deg);
+    }
+    20% {
+        margin-left: 100px;
+        margin-top: 100px;
+        transform: rotateZ(100deg);
     }
 }
