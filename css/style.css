@@ -1,6 +1,7 @@
-body{
+body {
     background-color: darkgreen;
 }
+
 .anim-obj {
     display: block;
     width: 100px;
@@ -27,27 +28,52 @@ a.hover {
     0% {
         margin-left: 0;
         margin-top: 0;
-        transform:rotateZ(0deg);
+        transform: rotateZ(0deg);
     }
-    25% {
+    1% {
+        margin-left: 5px;
+        margin-top: 5px;
+        transform: rotateZ(5deg);
+    }
+    2% {
+        margin-left: 10px;
+        margin-top: 10px;
+        transform: rotateZ(10deg);
+    }
+    3% {
+        margin-left: 15px;
+        margin-top: 15px;
+        transform: rotateZ(15deg);
+    }
+    4% {
         margin-left: 20px;
         margin-top: 20px;
-        transform:rotateZ(20deg);
+        transform: rotateZ(20deg);
     }
-    50% {
-        margin-left: 50px;
-        margin-top: 50px;
-        transform:rotateZ(30deg);
+    5% {
+        margin-left: 25px;
+        margin-top: 25px;
+        transform: rotateZ(25deg);
     }
-    75% {
-        margin-left: 100px;
-        margin-top: 100px;
-        transform:rotateZ(40deg);
+    6% {
+        margin-left: 30px;
+        margin-top: 30px;
+        transform: rotateZ(30deg);
     }
-    100% {
-        margin-left: 150px;
-        margin-top: 150px;
-        transform:rotateZ(60deg);
+    7% {
+        margin-left: 35px;
+        margin-top: 35px;
+        transform: rotateZ(35deg);
+    }
+    9% {
+        margin-left: 40px;
+        margin-top: 40px;
+        transform: rotateZ(40deg);
+    }
+    10% {
+        margin-left: 45px;
+        margin-top: 45px;
+        transform: rotateZ(45deg);
     }
 }
 
@@ -55,26 +81,51 @@ a.hover {
     0% {
         margin-left: 0;
         margin-top: 0;
-        transform:rotateX(0deg);
+        transform: rotateZ(0deg);
     }
-    25% {
+    1% {
+        margin-left: 5px;
+        margin-top: 5px;
+        transform: rotateZ(5deg);
+    }
+    2% {
+        margin-left: 10px;
+        margin-top: 10px;
+        transform: rotateZ(10deg);
+    }
+    3% {
+        margin-left: 15px;
+        margin-top: 15px;
+        transform: rotateZ(15deg);
+    }
+    4% {
         margin-left: 20px;
         margin-top: 20px;
-        transform:rotateX(20deg);
+        transform: rotateZ(20deg);
     }
-    50% {
-        margin-left: 50px;
-        margin-top: 50px;
-        transform:rotateX(30deg);
+    5% {
+        margin-left: 25px;
+        margin-top: 25px;
+        transform: rotateZ(25deg);
     }
-    75% {
-        margin-left: 100px;
-        margin-top: 100px;
-        transform:rotateX(40deg);
+    6% {
+        margin-left: 30px;
+        margin-top: 30px;
+        transform: rotateZ(30deg);
     }
-    100% {
-        margin-left: 150px;
-        margin-top: 150px;
-        transform:rotateX(60deg);
+    7% {
+        margin-left: 35px;
+        margin-top: 35px;
+        transform: rotateZ(35deg);
+    }
+    9% {
+        margin-left: 40px;
+        margin-top: 40px;
+        transform: rotateZ(40deg);
+    }
+    10% {
+        margin-left: 45px;
+        margin-top: 45px;
+        transform: rotateZ(45deg);
     }
 }
