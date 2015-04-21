@@ -26,10 +26,10 @@ a.hover {
 
 @-webkit-keyframes my-animation {
     0% {
-         margin-left: 0;
-         margin-top: 0;
-         transform: rotateZ(0deg);
-     }
+        margin-left: 0;
+        margin-top: 0;
+        transform: rotateZ(0deg);
+    }
     1% {
         margin-left: 5px;
         margin-top: 5px;
@@ -429,6 +429,106 @@ a.hover {
         margin-left: 339px;
         margin-top: 339px;
         transform: rotateZ(313deg);
+    }
+    81% {
+        margin-left: 340px;
+        margin-top: 340px;
+        transform: rotateZ(313deg);
+    }
+    82% {
+        margin-left: 341px;
+        margin-top: 341px;
+        transform: rotateZ(313deg);
+    }
+    83% {
+        margin-left: 342px;
+        margin-top: 342px;
+        transform: rotateZ(313deg);
+    }
+    84% {
+        margin-left: 343px;
+        margin-top: 343px;
+        transform: rotateZ(313deg);
+    }
+    85% {
+        margin-left: 344px;
+        margin-top: 344px;
+        transform: rotateZ(313deg);
+    }
+    86% {
+        margin-left: 345px;
+        margin-top: 345px;
+        transform: rotateZ(313deg);
+    }
+    87% {
+        margin-left: 346px;
+        margin-top: 346px;
+        transform: rotateZ(313deg);
+    }
+    88% {
+        margin-left: 347px;
+        margin-top: 347px;
+        transform: rotateZ(313deg);
+    }
+    89% {
+        margin-left: 348px;
+        margin-top: 348px;
+        transform: rotateZ(313deg);
+    }
+    90% {
+        margin-left: 350px;
+        margin-top: 350px;
+        transform: rotateZ(315deg);
+    }
+    91% {
+        margin-left: 351px;
+        margin-top: 351px;
+        transform: rotateZ(317deg);
+    }
+    92% {
+        margin-left: 352px;
+        margin-top: 352px;
+        transform: rotateZ(319deg);
+    }
+    93% {
+        margin-left: 353px;
+        margin-top: 353px;
+        transform: rotateZ(321deg);
+    }
+    94% {
+        margin-left: 354px;
+        margin-top: 354px;
+        transform: rotateZ(323deg);
+    }
+    95% {
+        margin-left: 355px;
+        margin-top: 355px;
+        transform: rotateZ(325deg);
+    }
+    96% {
+        margin-left: 356px;
+        margin-top: 356px;
+        transform: rotateZ(327deg);
+    }
+    97% {
+        margin-left: 357px;
+        margin-top: 357px;
+        transform: rotateZ(328deg);
+    }
+    98% {
+        margin-left: 358px;
+        margin-top: 358px;
+        transform: rotateZ(330deg);
+    }
+    99% {
+        margin-left: 359px;
+        margin-top: 359px;
+        transform: rotateZ(332deg);
+    }
+    100% {
+        margin-left: 360px;
+        margin-top: 360px;
+        transform: rotateZ(334deg);
     }
 }
 
@@ -837,5 +937,105 @@ a.hover {
         margin-left: 339px;
         margin-top: 339px;
         transform: rotateZ(313deg);
+    }
+    81% {
+        margin-left: 340px;
+        margin-top: 340px;
+        transform: rotateZ(313deg);
+    }
+    82% {
+        margin-left: 341px;
+        margin-top: 341px;
+        transform: rotateZ(313deg);
+    }
+    83% {
+        margin-left: 342px;
+        margin-top: 342px;
+        transform: rotateZ(313deg);
+    }
+    84% {
+        margin-left: 343px;
+        margin-top: 343px;
+        transform: rotateZ(313deg);
+    }
+    85% {
+        margin-left: 344px;
+        margin-top: 344px;
+        transform: rotateZ(313deg);
+    }
+    86% {
+        margin-left: 345px;
+        margin-top: 345px;
+        transform: rotateZ(313deg);
+    }
+    87% {
+        margin-left: 346px;
+        margin-top: 346px;
+        transform: rotateZ(313deg);
+    }
+    88% {
+        margin-left: 347px;
+        margin-top: 347px;
+        transform: rotateZ(313deg);
+    }
+    89% {
+        margin-left: 348px;
+        margin-top: 348px;
+        transform: rotateZ(313deg);
+    }
+    90% {
+        margin-left: 350px;
+        margin-top: 350px;
+        transform: rotateZ(315deg);
+    }
+    91% {
+        margin-left: 351px;
+        margin-top: 351px;
+        transform: rotateZ(317deg);
+    }
+    92% {
+        margin-left: 352px;
+        margin-top: 352px;
+        transform: rotateZ(319deg);
+    }
+    93% {
+        margin-left: 353px;
+        margin-top: 353px;
+        transform: rotateZ(321deg);
+    }
+    94% {
+        margin-left: 354px;
+        margin-top: 354px;
+        transform: rotateZ(323deg);
+    }
+    95% {
+        margin-left: 355px;
+        margin-top: 355px;
+        transform: rotateZ(325deg);
+    }
+    96% {
+        margin-left: 356px;
+        margin-top: 356px;
+        transform: rotateZ(327deg);
+    }
+    97% {
+        margin-left: 357px;
+        margin-top: 357px;
+        transform: rotateZ(328deg);
+    }
+    98% {
+        margin-left: 358px;
+        margin-top: 358px;
+        transform: rotateZ(330deg);
+    }
+    99% {
+        margin-left: 359px;
+        margin-top: 359px;
+        transform: rotateZ(332deg);
+    }
+    100% {
+        margin-left: 360px;
+        margin-top: 360px;
+        transform: rotateZ(334deg);
     }
 }
