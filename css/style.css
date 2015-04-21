@@ -20,8 +20,8 @@ a.hover {
 }
 
 .hover:hover + .anim-obj {
-    -webkit-animation: my-animation 1s 1 ease-out;
-    animation: my-animation 1s 1 ease-out;
+    -webkit-animation: my-animation 1.5s 1 ease-out;
+    animation: my-animation 1.5s 1 ease-out;
 }
 
 @-webkit-keyframes my-animation {
@@ -478,57 +478,57 @@ a.hover {
     90% {
         margin-left: 350px;
         margin-top: 350px;
-        transform: rotateZ(315deg);
+        transform: rotateZ(313deg);
     }
     91% {
         margin-left: 351px;
         margin-top: 351px;
-        transform: rotateZ(317deg);
+        transform: rotateZ(313deg);
     }
     92% {
         margin-left: 352px;
         margin-top: 352px;
-        transform: rotateZ(319deg);
+        transform: rotateZ(313deg);
     }
     93% {
         margin-left: 353px;
         margin-top: 353px;
-        transform: rotateZ(321deg);
+        transform: rotateZ(313deg);
     }
     94% {
         margin-left: 354px;
         margin-top: 354px;
-        transform: rotateZ(323deg);
+        transform: rotateZ(313deg);
     }
     95% {
         margin-left: 355px;
         margin-top: 355px;
-        transform: rotateZ(325deg);
+        transform: rotateZ(313deg);
     }
     96% {
         margin-left: 356px;
         margin-top: 356px;
-        transform: rotateZ(327deg);
+        transform: rotateZ(313deg);
     }
     97% {
         margin-left: 357px;
         margin-top: 357px;
-        transform: rotateZ(328deg);
+        transform: rotateZ(313deg);
     }
     98% {
         margin-left: 358px;
         margin-top: 358px;
-        transform: rotateZ(330deg);
+        transform: rotateZ(313deg);
     }
     99% {
         margin-left: 359px;
         margin-top: 359px;
-        transform: rotateZ(332deg);
+        transform: rotateZ(313deg);
     }
     100% {
         margin-left: 360px;
         margin-top: 360px;
-        transform: rotateZ(334deg);
+        transform: rotateZ(313deg);
     }
 }
 
@@ -986,56 +986,56 @@ a.hover {
     90% {
         margin-left: 350px;
         margin-top: 350px;
-        transform: rotateZ(315deg);
+        transform: rotateZ(313deg);
     }
     91% {
         margin-left: 351px;
         margin-top: 351px;
-        transform: rotateZ(317deg);
+        transform: rotateZ(313deg);
     }
     92% {
         margin-left: 352px;
         margin-top: 352px;
-        transform: rotateZ(319deg);
+        transform: rotateZ(313deg);
     }
     93% {
         margin-left: 353px;
         margin-top: 353px;
-        transform: rotateZ(321deg);
+        transform: rotateZ(313deg);
     }
     94% {
         margin-left: 354px;
         margin-top: 354px;
-        transform: rotateZ(323deg);
+        transform: rotateZ(313deg);
     }
     95% {
         margin-left: 355px;
         margin-top: 355px;
-        transform: rotateZ(325deg);
+        transform: rotateZ(313deg);
     }
     96% {
         margin-left: 356px;
         margin-top: 356px;
-        transform: rotateZ(327deg);
+        transform: rotateZ(313deg);
     }
     97% {
         margin-left: 357px;
         margin-top: 357px;
-        transform: rotateZ(328deg);
+        transform: rotateZ(313deg);
     }
     98% {
         margin-left: 358px;
         margin-top: 358px;
-        transform: rotateZ(330deg);
+        transform: rotateZ(313deg);
     }
     99% {
         margin-left: 359px;
         margin-top: 359px;
-        transform: rotateZ(332deg);
+        transform: rotateZ(313deg);
     }
     100% {
         margin-left: 360px;
         margin-top: 360px;
-        transform: rotateZ(334deg);
+        transform: rotateZ(313deg);
     }
 }
