@@ -18,7 +18,7 @@ a.hover {
     left: 50px;
     color: #ffffff;
 }
-
+ 
 .hover:hover + .anim-obj {
     -webkit-animation: my-animation 3s 1;
     animation: my-animation 3s 1;
