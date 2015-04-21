@@ -81,7 +81,7 @@ a.hover {
     0% {
         margin-left: 0;
         margin-top: 0;
-        transform: rotateZ(0deg);
+        transform: rotateZ(0deg); 
     }
     1% {
         margin-left: 5px;
