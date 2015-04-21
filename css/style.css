@@ -20,8 +20,8 @@ a.hover {
 }
 
 .hover:hover + .anim-obj {
-    -webkit-animation: my-animation 3s 1 ease-in-out;
-    animation: my-animation 3s 1 ease-in-out;
+    -webkit-animation: my-animation 1s 1 ease-out;
+    animation: my-animation 1s 1 ease-out;
 }
 
 @-webkit-keyframes my-animation {
