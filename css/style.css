@@ -280,6 +280,56 @@ a.hover {
         margin-top: 250px;
         transform: rotateZ(250deg);
     }
+    51% {
+        margin-left: 254px;
+        margin-top: 254px;
+        transform: rotateZ(253deg);
+    }
+    52% {
+        margin-left: 258px;
+        margin-top: 258px;
+        transform: rotateZ(258deg);
+    }
+    53% {
+        margin-left: 260px;
+        margin-top: 260px;
+        transform: rotateZ(261deg);
+    }
+    54% {
+        margin-left: 264px;
+        margin-top: 264px;
+        transform: rotateZ(264deg);
+    }
+    55% {
+        margin-left: 268px;
+        margin-top: 268px;
+        transform: rotateZ(267deg);
+    }
+    56% {
+        margin-left: 272px;
+        margin-top: 272px;
+        transform: rotateZ(271deg);
+    }
+    57% {
+        margin-left: 276px;
+        margin-top: 276px;
+        transform: rotateZ(274deg);
+    }
+    58% {
+        margin-left: 280px;
+        margin-top: 280px;
+        transform: rotateZ(277deg);
+    }
+    59% {
+        margin-left: 284px;
+        margin-top: 284px;
+        transform: rotateZ(280deg);
+    }
+    60% {
+        margin-left: 288px;
+        margin-top: 288px;
+        transform: rotateZ(283deg);
+    }
 }
 
 @keyframes my-animation {
@@ -537,5 +587,55 @@ a.hover {
         margin-left: 250px;
         margin-top: 250px;
         transform: rotateZ(250deg);
+    }
+    51% {
+        margin-left: 254px;
+        margin-top: 254px;
+        transform: rotateZ(253deg);
+    }
+    52% {
+        margin-left: 258px;
+        margin-top: 258px;
+        transform: rotateZ(258deg);
+    }
+    53% {
+        margin-left: 260px;
+        margin-top: 260px;
+        transform: rotateZ(261deg);
+    }
+    54% {
+        margin-left: 264px;
+        margin-top: 264px;
+        transform: rotateZ(264deg);
+    }
+    55% {
+        margin-left: 268px;
+        margin-top: 268px;
+        transform: rotateZ(267deg);
+    }
+    56% {
+        margin-left: 272px;
+        margin-top: 272px;
+        transform: rotateZ(271deg);
+    }
+    57% {
+        margin-left: 276px;
+        margin-top: 276px;
+        transform: rotateZ(274deg);
+    }
+    58% {
+        margin-left: 280px;
+        margin-top: 280px;
+        transform: rotateZ(277deg);
+    }
+    59% {
+        margin-left: 284px;
+        margin-top: 284px;
+        transform: rotateZ(280deg);
+    }
+    60% {
+        margin-left: 288px;
+        margin-top: 288px;
+        transform: rotateZ(283deg);
     }
 }
