@@ -230,6 +230,56 @@ a.hover {
         margin-top: 200px;
         transform: rotateZ(200deg);
     }
+    41% {
+        margin-left: 205px;
+        margin-top: 205px;
+        transform: rotateZ(205deg);
+    }
+    42% {
+        margin-left: 210px;
+        margin-top: 210px;
+        transform: rotateZ(210deg);
+    }
+    43% {
+        margin-left: 215px;
+        margin-top: 215px;
+        transform: rotateZ(215deg);
+    }
+    44% {
+        margin-left: 220px;
+        margin-top: 220px;
+        transform: rotateZ(220deg);
+    }
+    45% {
+        margin-left: 225px;
+        margin-top: 225px;
+        transform: rotateZ(225deg);
+    }
+    46% {
+        margin-left: 230px;
+        margin-top: 230px;
+        transform: rotateZ(230deg);
+    }
+    47% {
+        margin-left: 235px;
+        margin-top: 235px;
+        transform: rotateZ(235deg);
+    }
+    48% {
+        margin-left: 240px;
+        margin-top: 240px;
+        transform: rotateZ(240deg);
+    }
+    49% {
+        margin-left: 245px;
+        margin-top: 245px;
+        transform: rotateZ(245deg);
+    }
+    50% {
+        margin-left: 250px;
+        margin-top: 250px;
+        transform: rotateZ(250deg);
+    }
 }
 
 @keyframes my-animation {
@@ -437,5 +487,55 @@ a.hover {
         margin-left: 200px;
         margin-top: 200px;
         transform: rotateZ(200deg);
+    }
+    41% {
+        margin-left: 205px;
+        margin-top: 205px;
+        transform: rotateZ(205deg);
+    }
+    42% {
+        margin-left: 210px;
+        margin-top: 210px;
+        transform: rotateZ(210deg);
+    }
+    43% {
+        margin-left: 215px;
+        margin-top: 215px;
+        transform: rotateZ(215deg);
+    }
+    44% {
+        margin-left: 220px;
+        margin-top: 220px;
+        transform: rotateZ(220deg);
+    }
+    45% {
+        margin-left: 225px;
+        margin-top: 225px;
+        transform: rotateZ(225deg);
+    }
+    46% {
+        margin-left: 230px;
+        margin-top: 230px;
+        transform: rotateZ(230deg);
+    }
+    47% {
+        margin-left: 235px;
+        margin-top: 235px;
+        transform: rotateZ(235deg);
+    }
+    48% {
+        margin-left: 240px;
+        margin-top: 240px;
+        transform: rotateZ(240deg);
+    }
+    49% {
+        margin-left: 245px;
+        margin-top: 245px;
+        transform: rotateZ(245deg);
+    }
+    50% {
+        margin-left: 250px;
+        margin-top: 250px;
+        transform: rotateZ(250deg);
     }
 }
