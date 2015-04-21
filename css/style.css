@@ -20,21 +20,21 @@ a.hover {
 }
 
 .hover:hover + .anim-obj {
-    -webkit-animation: my-animation 3s 1;
-    animation: my-animation 3s 1;
+    -webkit-animation: my-animation 3s 1 ease-in-out;
+    animation: my-animation 3s 1 ease-in-out;
 }
 
 @-webkit-keyframes my-animation {
     0% {
-        margin-left: 0;
-        margin-top: 0;
-        transform: rotateZ(0deg);
-    }
-    1% {
-         margin-left: 5px;
-         margin-top: 5px;
-         transform: rotateZ(5deg);
+         margin-left: 0;
+         margin-top: 0;
+         transform: rotateZ(0deg);
      }
+    1% {
+        margin-left: 5px;
+        margin-top: 5px;
+        transform: rotateZ(5deg);
+    }
     2% {
         margin-left: 10px;
         margin-top: 10px;
@@ -179,6 +179,56 @@ a.hover {
         margin-left: 150px;
         margin-top: 150px;
         transform: rotateZ(150deg);
+    }
+    31% {
+        margin-left: 155px;
+        margin-top: 155px;
+        transform: rotateZ(155deg);
+    }
+    32% {
+        margin-left: 160px;
+        margin-top: 160px;
+        transform: rotateZ(160deg);
+    }
+    33% {
+        margin-left: 165px;
+        margin-top: 165px;
+        transform: rotateZ(165deg);
+    }
+    34% {
+        margin-left: 170px;
+        margin-top: 170px;
+        transform: rotateZ(170deg);
+    }
+    35% {
+        margin-left: 175px;
+        margin-top: 175px;
+        transform: rotateZ(175deg);
+    }
+    36% {
+        margin-left: 180px;
+        margin-top: 180px;
+        transform: rotateZ(180deg);
+    }
+    37% {
+        margin-left: 185px;
+        margin-top: 185px;
+        transform: rotateZ(185deg);
+    }
+    38% {
+        margin-left: 190px;
+        margin-top: 190px;
+        transform: rotateZ(190deg);
+    }
+    39% {
+        margin-left: 195px;
+        margin-top: 195px;
+        transform: rotateZ(195deg);
+    }
+    40% {
+        margin-left: 200px;
+        margin-top: 200px;
+        transform: rotateZ(200deg);
     }
 }
 
@@ -337,5 +387,55 @@ a.hover {
         margin-left: 150px;
         margin-top: 150px;
         transform: rotateZ(150deg);
+    }
+    31% {
+        margin-left: 155px;
+        margin-top: 155px;
+        transform: rotateZ(155deg);
+    }
+    32% {
+        margin-left: 160px;
+        margin-top: 160px;
+        transform: rotateZ(160deg);
+    }
+    33% {
+        margin-left: 165px;
+        margin-top: 165px;
+        transform: rotateZ(165deg);
+    }
+    34% {
+        margin-left: 170px;
+        margin-top: 170px;
+        transform: rotateZ(170deg);
+    }
+    35% {
+        margin-left: 175px;
+        margin-top: 175px;
+        transform: rotateZ(175deg);
+    }
+    36% {
+        margin-left: 180px;
+        margin-top: 180px;
+        transform: rotateZ(180deg);
+    }
+    37% {
+        margin-left: 185px;
+        margin-top: 185px;
+        transform: rotateZ(185deg);
+    }
+    38% {
+        margin-left: 190px;
+        margin-top: 190px;
+        transform: rotateZ(190deg);
+    }
+    39% {
+        margin-left: 195px;
+        margin-top: 195px;
+        transform: rotateZ(195deg);
+    }
+    40% {
+        margin-left: 200px;
+        margin-top: 200px;
+        transform: rotateZ(200deg);
     }
 }
